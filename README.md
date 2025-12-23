@@ -1,3 +1,9 @@
+## Fork Note
+
+This repository is forked to study and understand machine learning
+regression techniques as part of my learning journey.
+
+
 ## Machine Learning Regression: House Sales Price Prediction Models
 
 ### Description
